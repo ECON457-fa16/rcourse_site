@@ -1,12 +1,11 @@
 RCourse_site
-This contains the course notes and website material for the R course I 
-ran in February 2016. The course website can be viewed at: http://ateucher.github.io/rcourse_site/.
-
-Previous versions of the course are available as [tagged releases](https://github.com/ateucher/rcourse_site/releases)
+This contains the course notes and website material for the ECON457  in Sep 2016 . The course website can be viewed at: http://ECON457-fa16.github.io/rcourse_site/.
 
 To build the site, run the output_docs.R script in its entirety.
 
 ## Sources
+
+Original versions of the material are available as [ateucher](https://github.com/ateucher/rcourse_site/)
 
 The structure and most of the content in this module was adapted from: 
 - [Software Carpentry's](http://www.swcarpentry.org)'s [R Gapminder lesson](http://swcarpentry.github.io/r-novice-gapminder/index.html), and
