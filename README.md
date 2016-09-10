@@ -5,7 +5,7 @@ To build the site, run the output_docs.R script in its entirety.
 
 ## Sources
 
-Original versions of the material are available as [ateucher](https://github.com/ateucher/rcourse_site/)
+Original versions of the material are from [ateucher](https://github.com/ateucher/rcourse_site/)
 
 The structure and most of the content in this module was adapted from: 
 - [Software Carpentry's](http://www.swcarpentry.org)'s [R Gapminder lesson](http://swcarpentry.github.io/r-novice-gapminder/index.html), and
